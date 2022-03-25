@@ -1,0 +1,12 @@
+# idea
+.idea
+
+# dependencies
+node_modules
+
+# build
+build
+
+# enviroment values
+.env
+
