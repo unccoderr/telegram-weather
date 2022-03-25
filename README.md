@@ -3,5 +3,5 @@
 
 ## Stack
 * Typescript ES6+
-* Telegram API ([node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api))
-* Open Weather Map API ([openweathermap-ts](https://github.com/shimphillip/openweathermap-ts))
+* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+* [openweathermap-ts](https://github.com/shimphillip/openweathermap-ts)
